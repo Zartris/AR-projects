@@ -9,35 +9,50 @@ public class collision : MonoBehaviour
 	private bool colliding = false;
 
 	// Use this for initialization
-	void Start () {
-		
+	void Start()
+	{
 	}
-	
+
 	// Update is called once per frame
-	void Update ()
+	void Update()
 	{
-		SphereCollider thisSphereCollider = GetComponent<SphereCollider>();
-		SphereCollider otherSphereCollider = OtherSphere.GetComponent<SphereCollider>();
-		if (thisSphereCollider == null) throw new ArgumentNullException("thisSphereCollider");
-		if (otherSphereCollider == null) throw new ArgumentNullException("otherSphereCollider");
+		var component = GetComponent<Transform>();
+		var otherComponent = OtherSphere.GetComponent<Transform>();
 
-		bool isCol = isColliding(thisSphereCollider, otherSphereCollider);
-		if (colliding == isCol) return;
-		colliding = isCol;
-		Console.WriteLine(colliding ? "It is colliding" : "It is not colliding anymore.");
+		bool isCol = isColliding(component, otherComponent);
+		if (isCol)
+		{
+			// To calculate the collision point on the this component.
+			Vector3 componentPosition = component.position;
+			Vector3 otherComponentPosition = otherComponent.position;
+			
+			// to find the vector going from this to meteor:
+			Vector3 z = otherComponentPosition - componentPosition;
+
+			// We normalize to scale it for the right radius:
+			Vector3 zNormalized = z.normalized;
+			zNormalized.Scale(new Vector3(component.localScale.x, component.localScale.y, component.localScale.z));
+
+			// adds it to earth position:
+			Vector3 collidPoint = componentPosition + zNormalized;
+
+			Debug.Log("It is colliding" + collidPoint.ToString());
+		}
 	}
 
-	private bool isColliding(SphereCollider thisSphereCollider, SphereCollider otherSphereCollider)
+	private bool isColliding(Transform component, Transform otherComponent)
 	{
+		// Since we now it is a complete circle any axis in local will be the radius
+		float thisRadius = component.localScale.x;
+		float otherRadius = otherComponent.localScale.x;
+
 		//Two spheres are in contact with each other if and only if
 		//the distance between their centers is less than or equal to the sum of their radii.
-		
-		// Find radius of the two spheres and square it.
-		float thisRadius = thisSphereCollider.radius;
-		float otherRadius = otherSphereCollider.radius;
-		float radiusSquared = (float)Math.Pow(thisRadius + otherRadius, 2);
 
-		float distanceSquared = getDistanceSquared(thisSphereCollider.transform.position, otherSphereCollider.transform.position);
+		// Find radius of the two spheres and square it.
+		float radiusSquared = (float) Math.Pow(thisRadius + otherRadius, 2);
+
+		float distanceSquared = getDistanceSquared(component.position, otherComponent.position);
 		return distanceSquared < radiusSquared;
 	}
 
