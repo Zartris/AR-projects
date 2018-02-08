@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class rotate : MonoBehaviour {
-	public GameObject sun;
+	//public GameObject sun;
 
 
 
@@ -14,7 +14,6 @@ public class rotate : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		// lookup the Vector3.up
 		//transform.RotateAround (sun.transform.position, Vector3.up, 20 * Time.deltaTime);
 		transform.Rotate (Vector3.up);
 	}
