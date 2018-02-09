@@ -31,7 +31,7 @@ public class ChangeColor : MonoBehaviour
 		if(Runway == null)
 		{
 			// change color to transparent
-			GetComponent<Renderer>().material.SetColor("Main Color",Color.red); ;
+			GetComponent<Renderer>().material.color = Color.red;
 			_isGreen = false;
 			return;
 		}
@@ -83,13 +83,13 @@ public class ChangeColor : MonoBehaviour
 		{
 			// change to green
 			if(_isGreen) return;
-			GetComponent<Renderer>().material.SetColor("Main Color",Color.green); ;
+			GetComponent<Renderer>().material.color = Color.green;
 			_isGreen = true;
 		}
 		else if(_isGreen)
 		{
 			// change to red
-			GetComponent<Renderer>().material.SetColor("Main Color"	,Color.red); ;
+			GetComponent<Renderer>().material.color = Color.red;
 			_isGreen = false;
 		}
 		
