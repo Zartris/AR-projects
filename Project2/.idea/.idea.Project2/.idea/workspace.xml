@@ -5,37 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e18d5567-a58f-4623-811d-4a5e62519a14" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Project2/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Project2/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project2.unity" afterPath="$PROJECT_DIR$/Assets/Project2.unity" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000003000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000003000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004100000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000005000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000005000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000005100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000005100000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000006000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000006000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000006100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000006100000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000007000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000007000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000007100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000007100000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000008000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000008000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000009000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000009000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/0000000000000000a000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/0000000000000000a000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/0000000000000000a100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/0000000000000000a100000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/0000000000000000b000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/0000000000000000b000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/0000000000000000c000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/0000000000000000c000000000000000" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/7d/7d26daf6899284e2594674cafbfa7549" afterPath="$PROJECT_DIR$/Library/metadata/7d/7d26daf6899284e2594674cafbfa7549" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.dll" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.dll" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.pdb" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.pdb" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.dll" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.dll" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.pdb" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.pdb" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.dll" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.pdb" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.pdb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,22 +40,21 @@
       <file leaf-file-name="ChangeColor.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="85" column="48" lean-forward="false" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
+            <state relative-caret-position="90">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <marker date="1518206601285" expanded="false" signature="6:92" ph="..." />
-                <marker date="1518206601285" expanded="true" signature="134:3712" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="481:488" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="541:3114" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="565:695" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="1360:1647" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
-                <marker date="1518206601285" expanded="true" signature="2056:2427" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="2663:2782" ph="/* So to be green you have to have all parameter true: ... */" />
-                <marker date="1518206601285" expanded="true" signature="2848:2980" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="3000:3105" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="3118:3261" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
-                <marker date="1518206601285" expanded="true" signature="3359:3710" ph="{...}" />
-                <marker date="1518206601285" expanded="true" signature="3550:3670" ph="{...}" />
+                <marker date="1518300372887" expanded="false" signature="6:32" ph="..." />
+                <marker date="1518300372887" expanded="true" signature="74:3311" ph="{...}" />
+                <marker date="1518300372887" expanded="true" signature="262:274" ph="{...}" />
+                <marker date="1518300372887" expanded="true" signature="332:2180" ph="{...}" />
+                <marker date="1518300372887" expanded="true" signature="366:514" ph="{...}" />
+                <marker date="1518300372887" expanded="true" signature="1118:1429" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
+                <marker date="1518300372887" expanded="true" signature="1939:2064" ph="/* So to be green you have to have all parameter true: ... */" />
+                <marker date="1518300372887" expanded="true" signature="2186:2338" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
+                <marker date="1518300372887" expanded="true" signature="2419:2669" ph="{...}" />
+                <marker date="1518300372887" expanded="true" signature="2733:3309" ph="{...}" />
+                <marker date="1518300372887" expanded="true" signature="2748:2898" ph="/* f1, f2 and f3 is a number between 0 and 1. where 1 is the perfect orientasion. ... */" />
+                <marker date="1518300372887" expanded="true" signature="3033:3261" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -155,7 +145,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="83700" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -173,11 +163,12 @@
       <workItem from="1518086626909" duration="1875000" />
       <workItem from="1518163629482" duration="12266000" />
       <workItem from="1518206073509" duration="610000" />
+      <workItem from="1518297138409" duration="3239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14751000" />
+    <option name="totallyTimeSpent" value="17990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,6 +192,7 @@
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24270834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -210,7 +202,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -226,45 +217,32 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs</url>
-          <line>85</line>
+          <line>57</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" initialLine="83">
             <startOffsets>
-              <startOffset value="2902" />
+              <startOffset value="2269" />
             </startOffsets>
             <endOffsets>
-              <endOffset value="2955" />
+              <endOffset value="2322" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs</url>
-          <line>91</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" initialLine="89">
+          <line>88</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" initialLine="114">
             <startOffsets>
-              <startOffset value="3108" />
+              <startOffset value="3271" />
             </startOffsets>
             <endOffsets>
-              <endOffset value="3176" />
+              <endOffset value="3303" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs</url>
-          <line>81</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" initialLine="81">
-            <startOffsets>
-              <startOffset value="2788" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="2848" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -274,19 +252,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1518206601285" expanded="false" signature="6:92" ph="..." />
-            <marker date="1518206601285" expanded="true" signature="134:3712" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="481:488" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="541:3114" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="565:695" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="1360:1647" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
-            <marker date="1518206601285" expanded="true" signature="2056:2427" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="2663:2782" ph="/* So to be green you have to have all parameter true: ... */" />
-            <marker date="1518206601285" expanded="true" signature="2848:2980" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3000:3105" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3118:3261" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
-            <marker date="1518206601285" expanded="true" signature="3359:3710" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3550:3670" ph="{...}" />
+            <marker date="1518300372887" expanded="false" signature="6:32" ph="..." />
+            <marker date="1518300372887" expanded="true" signature="74:3311" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="262:274" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="332:2180" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="366:514" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="1118:1429" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
+            <marker date="1518300372887" expanded="true" signature="1939:2064" ph="/* So to be green you have to have all parameter true: ... */" />
+            <marker date="1518300372887" expanded="true" signature="2186:2338" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
+            <marker date="1518300372887" expanded="true" signature="2419:2669" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2733:3309" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2748:2898" ph="/* f1, f2 and f3 is a number between 0 and 1. where 1 is the perfect orientasion. ... */" />
+            <marker date="1518300372887" expanded="true" signature="3033:3261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -304,19 +281,47 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1518206601285" expanded="false" signature="6:92" ph="..." />
-            <marker date="1518206601285" expanded="true" signature="134:3712" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="481:488" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="541:3114" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="565:695" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="1360:1647" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
-            <marker date="1518206601285" expanded="true" signature="2056:2427" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="2663:2782" ph="/* So to be green you have to have all parameter true: ... */" />
-            <marker date="1518206601285" expanded="true" signature="2848:2980" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3000:3105" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3118:3261" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
-            <marker date="1518206601285" expanded="true" signature="3359:3710" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3550:3670" ph="{...}" />
+            <marker date="1518300372887" expanded="false" signature="6:32" ph="..." />
+            <marker date="1518300372887" expanded="true" signature="74:3311" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="262:274" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="332:2180" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="366:514" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="1118:1429" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
+            <marker date="1518300372887" expanded="true" signature="1939:2064" ph="/* So to be green you have to have all parameter true: ... */" />
+            <marker date="1518300372887" expanded="true" signature="2186:2338" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
+            <marker date="1518300372887" expanded="true" signature="2419:2669" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2733:3309" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2748:2898" ph="/* f1, f2 and f3 is a number between 0 and 1. where 1 is the perfect orientasion. ... */" />
+            <marker date="1518300372887" expanded="true" signature="3033:3261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518300372887" expanded="false" signature="6:32" ph="..." />
+            <marker date="1518300372887" expanded="true" signature="74:3311" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="262:274" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="332:2180" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="366:514" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="1118:1429" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
+            <marker date="1518300372887" expanded="true" signature="1939:2064" ph="/* So to be green you have to have all parameter true: ... */" />
+            <marker date="1518300372887" expanded="true" signature="2186:2338" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
+            <marker date="1518300372887" expanded="true" signature="2419:2669" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2733:3309" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2748:2898" ph="/* f1, f2 and f3 is a number between 0 and 1. where 1 is the perfect orientasion. ... */" />
+            <marker date="1518300372887" expanded="true" signature="3033:3261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -339,22 +344,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="85" column="48" lean-forward="false" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
+        <state relative-caret-position="90">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
-            <marker date="1518206601285" expanded="false" signature="6:92" ph="..." />
-            <marker date="1518206601285" expanded="true" signature="134:3712" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="481:488" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="541:3114" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="565:695" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="1360:1647" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
-            <marker date="1518206601285" expanded="true" signature="2056:2427" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="2663:2782" ph="/* So to be green you have to have all parameter true: ... */" />
-            <marker date="1518206601285" expanded="true" signature="2848:2980" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3000:3105" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3118:3261" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
-            <marker date="1518206601285" expanded="true" signature="3359:3710" ph="{...}" />
-            <marker date="1518206601285" expanded="true" signature="3550:3670" ph="{...}" />
+            <marker date="1518300372887" expanded="false" signature="6:32" ph="..." />
+            <marker date="1518300372887" expanded="true" signature="74:3311" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="262:274" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="332:2180" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="366:514" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="1118:1429" ph="/* Checking if the angle is the same, by calculating the dot product of forward and right ... */" />
+            <marker date="1518300372887" expanded="true" signature="1939:2064" ph="/* So to be green you have to have all parameter true: ... */" />
+            <marker date="1518300372887" expanded="true" signature="2186:2338" ph="/* This method is finding the dotproduct between the right direction of the runway ... */" />
+            <marker date="1518300372887" expanded="true" signature="2419:2669" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2733:3309" ph="{...}" />
+            <marker date="1518300372887" expanded="true" signature="2748:2898" ph="/* f1, f2 and f3 is a number between 0 and 1. where 1 is the perfect orientasion. ... */" />
+            <marker date="1518300372887" expanded="true" signature="3033:3261" ph="{...}" />
           </folding>
         </state>
       </provider>

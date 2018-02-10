@@ -1,6 +1,5 @@
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Assembly-CSharp-Editor.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
-D:\Code\AR-projects\Project2\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\UnityEditor.Advertisements.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\UnityEditor.Analytics.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\UnityEditor.dll
@@ -41,7 +40,6 @@ D:\Code\AR-projects\Project2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Unity.UNetWeaver.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Unity.Cecil.Mdb.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
-D:\Code\AR-projects\Project2\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Unity.CecilTools.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Unity.Cecil.Pdb.dll
 D:\Code\AR-projects\Project2\Temp\bin\Debug\Assembly-CSharp.pdb
