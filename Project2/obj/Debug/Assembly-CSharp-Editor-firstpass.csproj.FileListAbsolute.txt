@@ -69,3 +69,4 @@ D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojRe
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb
+D:\Code\AR-projects\Project2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb

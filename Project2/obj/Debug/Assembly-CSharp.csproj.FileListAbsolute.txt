@@ -69,3 +69,4 @@ D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyRefe
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp.dll
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp.pdb
+D:\Code\AR-projects\Project2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
