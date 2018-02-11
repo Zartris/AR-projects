@@ -71,3 +71,4 @@ D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssem
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor.dll
 D:\Code\AR-projects\Project2\obj\Debug\Assembly-CSharp-Editor.pdb
+D:\Code\AR-projects\Project2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
