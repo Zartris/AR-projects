@@ -18,7 +18,7 @@ public class ChangeColor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Runway == null)
+		if (Runway == null)
         {
             // change color to transparent
             GetComponent<Renderer>().material.color = Color.red;

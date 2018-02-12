@@ -1,13 +1,13 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{957D392F-9515-D4BF-9A65-492B0662648F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Assembly-CSharp-firstpass.csproj", "{957D392F-9515-D4BF-9A65-492B0662648F}"
 EndProject
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Assembly-CSharp.csproj", "{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}"
 EndProject
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{08DF0042-37B0-F375-E759-5E779F27CCAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Assembly-CSharp-Editor-firstpass.csproj", "{08DF0042-37B0-F375-E759-5E779F27CCAF}"
 EndProject
-Project("{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2A67BF4C-15BC-CED7-0969-7CD6EFF48303}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Assembly-CSharp-Editor.csproj", "{2A67BF4C-15BC-CED7-0969-7CD6EFF48303}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
