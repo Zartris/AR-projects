@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Jonas le Fevre\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Project2.694733153.00" t="ExcludeRecursive" />
-    <e p="D:\Code\AR-projects\Project2" t="IncludeRecursive">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -114,6 +113,7 @@
         </e>
         <e p="StreamingAssets" t="Include">
           <e p="Vuforia" t="Include">
+            <e p="Project2.xml" t="Include" />
             <e p="Project2_unedited.xml" t="Include" />
             <e p="VuforiaMars_Images.xml" t="Include" />
             <e p="VuforiaMars_ModelTarget.xml" t="Include" />
@@ -151,5 +151,6 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Project2.1375173431.00" t="ExcludeRecursive" />
   </component>
 </project>

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311947, g: 0.38074005, b: 0.35872722, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -361,7 +361,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: aee803b87b68495c8b20e6ee7b3f7004, type: 3}
+        m_Texture: {fileID: 2800000, guid: 08b7ca0431214ddf9b82d064d05800cd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -464,7 +464,7 @@ MonoBehaviour:
   mTrackableName: SpaceShip-Modified
   mPreserveChildSize: 0
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/Project2_unedited.xml
+  mDataSetPath: Vuforia/Project2.xml
   mExtendedTracking: 0
   mAspectRatio: 1.5180001
   mImageTargetType: 0
@@ -477,7 +477,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 499445820}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.5025, y: 0, z: -0.32}
+  m_LocalPosition: {x: 4.599, y: 0, z: -0.089}
   m_LocalScale: {x: 0.09108, y: 0.09108, z: 0.09108}
   m_Children:
   - {fileID: 2041433161}
@@ -582,7 +582,7 @@ MonoBehaviour:
   mTrackableName: Earth
   mPreserveChildSize: 0
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/Project2_unedited.xml
+  mDataSetPath: Vuforia/Project2.xml
   mExtendedTracking: 0
   mAspectRatio: 1
   mImageTargetType: 0
@@ -699,7 +699,7 @@ MonoBehaviour:
   mTrackableName: Runway-Modified
   mPreserveChildSize: 0
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/Project2_unedited.xml
+  mDataSetPath: Vuforia/Project2.xml
   mExtendedTracking: 0
   mAspectRatio: 2.7495801
   mImageTargetType: 0
@@ -822,7 +822,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 82b959b1c3774cbda6f10422c9e4d660, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3c16eae5b8434e898a8f234fd2676f59, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -847,7 +847,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 41b7c7ea6d154bb594abc344a53137af, type: 3}
+        m_Texture: {fileID: 2800000, guid: 758ab58724e84dfc93607c66f97a908a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
