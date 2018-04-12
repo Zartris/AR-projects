@@ -1,0 +1,261 @@
+{
+    "accessors": {
+        "accessor_0": {
+            "bufferView": "bufferView_1",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 2967,
+            "max": [
+                0.06375,
+                0.03175,
+                0.023
+            ],
+            "min": [
+                -1.46498e-18,
+                -1.83697e-20,
+                0
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1": {
+            "bufferView": "bufferView_1",
+            "byteOffset": 35604,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 2967,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": "VEC3"
+        },
+        "accessor_2": {
+            "bufferView": "bufferView_0",
+            "byteOffset": 0,
+            "byteStride": 2,
+            "componentType": 5123,
+            "count": 7986,
+            "max": [
+                2966
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        }
+    },
+    "animations": {
+    },
+    "asset": {
+        "generator": "pv2gltf",
+        "premultipliedAlpha": true,
+        "profile": {
+            "api": "WebGL",
+            "version": "1.0.2"
+        },
+        "version": "1.0.1"
+    },
+    "bufferViews": {
+        "bufferView_1": {
+            "buffer": "Duplo_4x2@0",
+            "byteLength": 71208,
+            "byteOffset": 0,
+            "target": 34962
+        },
+        "bufferView_0": {
+            "buffer": "Duplo_4x2@0",
+            "byteLength": 15972,
+            "byteOffset": 71208,
+            "target": 34963
+        }
+    },
+    "buffers": {
+        "Duplo_4x2@0": {
+            "byteLength": 87180,
+            "type": "arraybuffer",
+            "uri": "Duplo_4x2-0.bin"
+        }
+    },
+    "extensionsUsed": [
+    ],
+    "images": {
+    },
+    "materials": {
+        "mat@0-lib": {
+            "name": "mat@0",
+            "doubleSided": true,
+            "technique": "technique@0",
+            "transparent": false,
+            "values": {
+                "ambient": [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "diffuse": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1
+                ],
+                "emission": [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "shininess": 1,
+                "specular": [
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            }
+        }
+    },
+    "meshes": {
+        "Merge0~1": {
+            "name": "Merge0~1",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1",
+                        "POSITION": "accessor_0"
+                    },
+                    "indices": "accessor_2",
+                    "material": "mat@0-lib",
+                    "mode": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "/": {
+            "children": [
+                "Merge0"
+            ],
+            "name": "Duplo_4x2"
+        },
+        "Merge0": {
+            "children": [
+                "Merge0~1@0"
+            ],
+            "name": "Merge0"
+        },
+        "Merge0~1@0": {
+            "children": [],
+            "meshes": [
+                "Merge0~1"
+            ]
+        }
+    },
+    "programs": {
+        "program@0": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "Duplo_4x20FS",
+            "vertexShader": "Duplo_4x20VS"
+        }
+    },
+    "samplers": {
+    },
+    "shaders": {
+        "Duplo_4x20FS": {
+            "type": 35632,
+            "uri": "Duplo_4x20FS.glsl"
+        },
+        "Duplo_4x20VS": {
+            "type": 35633,
+            "uri": "Duplo_4x20VS.glsl"
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "/"
+            ]
+        }
+    },
+    "skins": {
+    },
+    "techniques": {
+        "technique@0": {
+            "attributes": {
+                "a_normal": "normal",
+                "a_position": "position"
+            },
+            "parameters": {
+                "ambient": {
+                    "type": 35666
+                },
+                "diffuse": {
+                    "type": 35666
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                }
+            },
+            "program": "program@0",
+            "states": {
+                "enable": [
+                    2929
+                ],
+                "disable": [
+                    2884
+                ],
+                "functions": {
+                }
+            },
+            "uniforms": {
+                "u_ambient": "ambient",
+                "u_diffuse": "diffuse",
+                "u_emission": "emission",
+                "u_modelViewMatrix": "modelViewMatrix",
+                "u_normalMatrix": "normalMatrix",
+                "u_projectionMatrix": "projectionMatrix",
+                "u_shininess": "shininess",
+                "u_specular": "specular"
+            }
+        }
+    },
+    "textures": {
+    }
+}

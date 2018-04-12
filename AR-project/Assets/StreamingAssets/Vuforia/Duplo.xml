@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Duplo"/>
+</Tracking>
+
+<Assembly name="Duplos_assembly">
+<Part name="Duplo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0196448 -0.00401553 0.167216" rotation="AD: 0.47698223704473336 1.777461295962134 -1.059378505636493 164.75">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/Main_scene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/ObjectRecognition_scene.unity
+  isLoaded: 0
+  isActive: 0

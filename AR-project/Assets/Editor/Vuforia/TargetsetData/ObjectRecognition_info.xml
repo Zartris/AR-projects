@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-04-08 14:21:31" name="duplo_2x4x2" targetId="417ece5304d44f2eb5e3e5c85ada734e" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-04-08 14:11:09" name="duplo_4x2" targetId="59d1acf9ef624b01abfac30a790c3717" version="2.0" />
+  </TargetSet>
+</QCARInfo>
