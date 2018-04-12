@@ -18,7 +18,7 @@ public class ChangeColor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Runway == null)
+		if (Runway == null)
         {
             // change color to transparent
             GetComponent<Renderer>().material.color = Color.red;
@@ -35,7 +35,8 @@ public class ChangeColor : MonoBehaviour
 
         Debug.DrawRay(runwayTransform.position, runwayTransform.forward, Color.blue, 1);
         Debug.DrawRay(runwayTransform.position, runwayTransform.right, Color.blue, 1);
-
+        
+            Debug.DrawRay(spaceShipTransform.position, runwayTransform.position - spaceShipTransform.position, Color.green, Vector3.Distance(runwayTransform.position, spaceShipTransform.position));
         // Checking if the angle is the same, by calculating the dot product of forward and right
         // If the dot product is 1 it means that it is the same direction
         // If the dot product is 0 it has a 90 degree
@@ -47,7 +48,7 @@ public class ChangeColor : MonoBehaviour
         var xaxisEquals = Math.Abs(dotForward);
         var zaxisEquels = Math.Abs(dotRight);
 
-        // Check if we are aligned with the runway.
+        // Check if we are aligned with the runway.    
         var correctDirection = IsFlylingTheRightDirection(runwayTransform.position,
             runwayTransform.position + runwayTransform.right, spaceShipTransform.position);
 
@@ -63,11 +64,11 @@ public class ChangeColor : MonoBehaviour
     private float IsFlylingTheRightDirection(Vector3 v1, Vector3 v2, Vector3 v3)
     {
         // The runwayTransform.right vector of the runway
-        var AB = (v2 - v1).normalized;
+        var AB = (v2 - v1);
         // The vector between runway and spaceship
-        var AC = (v3 - v1).normalized;
-
-        return 1 - Math.Abs(Vector3.Dot(AB, AC));
+        var AC = (v3 - v1);
+        var result = 1 - Math.Abs(Vector3.Dot(AB, AC));
+        return result > 0 ? result : 0;
     }
 
     private Color CalculateColor(float f1, float f2, float f3)

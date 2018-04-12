@@ -30,8 +30,6 @@ public class ShootRaysFalcon : MonoBehaviour
         // localy find the position of the canons and apply scaling
         _cannon1Local = Vector3.Scale(new Vector3(-0.06f, 0, 0.49f), GetComponent<Transform>().localScale);
         _cannon2Local = Vector3.Scale(new Vector3(0.06f, 0, 0.49f), GetComponent<Transform>().localScale);
-
-        _topCannonRotation = Quaternion.Euler(Pitch, Yaw, 0);
         
         _cannonTopLocal = Vector3.Scale(new Vector3(0, 0, -0.093f), GetComponent<Transform>().localScale);
         // we dont want to scale the 2.5 cm 
@@ -65,7 +63,7 @@ public class ShootRaysFalcon : MonoBehaviour
             RaycastHit hitCannonTop;
             _ray1 = new Ray(cannon1, transform.forward);
             _ray2 = new Ray(cannon2, transform.forward);
-            _ray3 = new Ray(topCannon, _topCannonRotation * transform.forward);
+            _ray3 = new Ray(topCannon, Quaternion.Euler(Pitch, Yaw, 0) * transform.forward);
             var raycast1 = Physics.Raycast(_ray1, out hitCannon1);
             var raycast2 = Physics.Raycast(_ray2, out hitCannon2);
             var raycast3 = Physics.Raycast(_ray3, out hitCannonTop);
